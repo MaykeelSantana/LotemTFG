@@ -152,8 +152,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en un entorno de desarr
 
 1.  **Clonar el Repositorio (si aplica):**
     ```bash
-    git clone URL_DEL_REPOSITORIO
-    cd lotem-backend # o como se llame tu carpeta backend
+    git clone https://github.com/MaykeelSantana/LotemTFG.git
+    cd backend 
     ```
 
 2.  **Instalar Dependencias:**
@@ -197,9 +197,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en un entorno de desarr
 
 5.  **Ejecutar el Servidor Backend:**
     ```bash
-    npm run dev
-    # o
-    yarn dev
+    npm run devev
     ```
     El backend debería estar ahora ejecutándose en `http://localhost:3001` (o el puerto que hayas configurado).
 
@@ -207,7 +205,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en un entorno de desarr
 
 1.  **Navegar a la Carpeta del Frontend:**
     ```bash
-    cd ../frontend # o la ruta a tu carpeta frontend
+    cd ../frontend 
     ```
 
 2.  **Instalar Dependencias:**
