@@ -30,9 +30,9 @@ El objetivo principal del proyecto ha sido explorar y aplicar diversas tecnolog�
     * Creación automática de un personaje con estilos por defecto al entrar al juego/sala por primera vez si no existe.
     * Sistema de personalización de apariencia en capas:
         * Estilo de cuerpo (ej. base masculina/femenina, diferentes tonos).
-        * Estilo de pelo (con opción "ninguno").
-        * Estilo de camisa (con opción "ninguna").
-        * Estilo de pantalones (con opción "ninguno").
+        * Estilo de pelo 
+        * Estilo de camisa 
+        * Estilo de pantalones 
     * Panel de "Guardarropa" (`WardrobePanel`) para que el jugador modifique estos estilos.
     * Los cambios de apariencia se guardan en la base de datos y se notifican a otros jugadores en tiempo real.
 * **Sistema de Salas (Lobby - `HotelView`):**
