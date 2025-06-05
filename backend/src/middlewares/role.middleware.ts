@@ -1,6 +1,5 @@
-// backend/src/middlewares/role.middleware.ts (nuevo archivo)
 import { Request, Response, NextFunction } from 'express';
-import { User, UserRole } from '../modules/auth/entities/User.entity'; // Ajusta la ruta
+import { User, UserRole } from '../modules/auth/entities/User.entity'; 
 
 export function ensureRole(roles: UserRole[]) {
     return (req: Request, res: Response, next: NextFunction) => {
