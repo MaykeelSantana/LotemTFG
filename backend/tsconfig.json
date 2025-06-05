@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",                       /* Especifica la versión de ECMAScript de destino. */
+    "module": "commonjs",                     /* Especifica la generación de código de módulo. */
+    "lib": ["ES2021"],                         /* Especifica las bibliotecas de tipos a incluir. */
+    "rootDir": "./src",                       /* Directorio raíz de los archivos de entrada. */
+    "outDir": "./dist",                       /* Directorio de salida para los archivos compilados. */
+    "esModuleInterop": true,                  /* Permite la interoperabilidad con módulos CommonJS. */
+    "experimentalDecorators": true,           /* Habilita los decoradores experimentales (para TypeORM). */
+    "emitDecoratorMetadata": true,            /* Habilita la emisión de metadatos para decoradores (para TypeORM). */
+    "skipLibCheck": true,                     /* Omite la comprobación de tipos de los archivos de declaración. */
+    "forceConsistentCasingInFileNames": true, /* Asegura la consistencia en el uso de mayúsculas y minúsculas en los nombres de archivo. */
+    "strict": true,                           /* Habilita todas las opciones de comprobación de tipos estrictas. */
+    "resolveJsonModule": true                 /* Permite importar módulos .json */
+  },
+  "include": ["src/**/*"],                    /* Archivos a incluir en la compilación. */
+  "exclude": ["node_modules", "dist"]         /* Archivos a excluir. */
+}
