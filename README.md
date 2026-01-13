@@ -1,5 +1,5 @@
 # Lotem - Juego MMO Multijugador 2D
-![LOTEM](https://media.discordapp.net/attachments/725770481357291601/1380194782332321863/image.png?ex=6842fe0e&is=6841ac8e&hm=ff9ed1e765fc944c3353cfb27f0924d16780c0cdf0aee2413c1483eeb2c94342&=&format=webp&quality=lossless&width=1536&height=864)
+![LOTEM]([https://media.discordapp.net/attachments/725770481357291601/1380194782332321863/image.png?ex=6842fe0e&is=6841ac8e&hm=ff9ed1e765fc944c3353cfb27f0924d16780c0cdf0aee2413c1483eeb2c94342&=&format=webp&quality=lossless&width=1536&height=864](https://maykeel.es/projects/lotem-3.png))
 
 ## Tabla de Contenidos
 1.  [Descripción del Proyecto](#descripción-del-proyecto)
